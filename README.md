@@ -10,7 +10,7 @@ A fully responsive Recipe Application built with **React (Vite)**, **Material UI
 ---
 
 ## 📸 Screenshot
-
+### Home UI
 ![Home UI](./public/screenshot.png)
 
 ---
