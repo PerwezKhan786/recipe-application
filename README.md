@@ -1,5 +1,5 @@
 
-```markdown
+---
 # 🍽️ Recipe Application
 
 A fully responsive Recipe Application built with **React (Vite)**, **Material UI**, and **React Router DOM**. Users can search for recipes, view detailed recipe information, and navigate to the original recipe source.
@@ -121,5 +121,5 @@ This project is deployed on **Netlify**. To deploy it yourself:
 
 This project is licensed under the MIT License.
 
-```
+---
 
