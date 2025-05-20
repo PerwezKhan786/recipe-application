@@ -11,7 +11,7 @@ A fully responsive Recipe Application built with **React (Vite)**, **Material UI
 
 ## 📸 Screenshot
 
-<img src="./public/screenshot.png" alt="Recipe App Screenshot" width="100%" />
+![Home UI](./public/screenshot.png)
 
 ---
 
